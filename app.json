@@ -1,0 +1,12 @@
+{
+  "name": "Start Read",
+  "displayName": "Start Read",
+  "expo": {
+    "name": "Start Read",
+    "slug": "start_read",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
